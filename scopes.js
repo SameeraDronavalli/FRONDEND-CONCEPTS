@@ -12,8 +12,8 @@ console.log(a);
 
 function value()
 {
-    m = 100;
-    n = 100;
+    let m = 100;
+    let n = 100;
     sum = m + n;
     console.log(sum);
 }
