@@ -6,6 +6,5 @@ myName="anjani";
 console.log(myName);
 // const variable   // variable initializing
 const toDay="sunday"; 
-// toDay="friday"; ( Error, it shows that const variable assigned already)
-// once declaring a variable with value (initializing)we cannot change that value of variable in const
+toDay="friday"; //..once declaring a variable with value we cannot change that value of variable in const here we get an error it shows  const variable assigned already..//
 console.log(toDay);
