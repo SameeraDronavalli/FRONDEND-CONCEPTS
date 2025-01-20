@@ -27,9 +27,9 @@ value();
 }
 {
 let secondName = "sameera";
-
-console.log(secondName);
 }
+console.log(secondName); //..Here we get an error because let is block scope so outside the scope we can't get the variable..//
+
 // const block scope
 {
 const lastName = "dronavalli";
